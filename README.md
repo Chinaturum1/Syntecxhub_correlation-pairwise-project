@@ -53,15 +53,12 @@ Numeric features used for correlation analysis:
 ## Project Structure
 
 ```
-project3-correlation-analysis/
+Syntecxhub_correlation-pairwise-project/
 │
-├── data/
-│   └── Housing.csv
-├── notebooks/
-│   └── CorrelationHeatmap.ipynb
-├── outputs/
-│   ├── heatmap.png
-│   └── pairplot.png
+├── Housing.csv
+├── CorrelationHeatmap.ipynb
+├── heatmap.png
+├── pairplot.png
 └── README.md
 ```
 
@@ -76,6 +73,18 @@ project3-correlation-analysis/
 5. **Plot the heatmap** with annotations, coolwarm colormap, and proper formatting
 6. **Generate a pairplot** with `stories` as the hue variable to reveal group-level patterns across key features
 
+---
+
+## Correlation Heatmap Preview
+
+---
+![Heatmap preview](heatmap.png)
+---
+
+## Pairplot Preview
+
+---
+![Pairplot preview](pairplot.png)
 ---
 
 ## Summary of Findings
