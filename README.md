@@ -10,6 +10,8 @@ A Python-based exploratory data analysis project that computes and visualizes Pe
 - [Tools & Libraries](#tools--libraries)
 - [Project Structure](#project-structure)
 - [Key Steps](#key-steps)
+- [Correlation Heatmap Preview](#correlation-heatmap-preview)
+- [Pairplot Preview](#pairplot-preview)
 - [Summary of Findings](#summary-of-findings)
 
 ---
